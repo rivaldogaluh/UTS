@@ -1,0 +1,18 @@
+<p>Data Pemantauan Covid-19 wilayah DKI Jakarta</p>
+		<p>Per 22 April 2020 | 21:33:58</p>
+		<p>Rivaldo Galuh P./171011401570</p><br>
+		<table class='table1'>
+			<tr>
+				<td>Positif</td>
+				<td>Dirawat</td>
+				<td>Sembuh</td>
+				<td>Meninggal</td>
+			</tr>
+			<tr>
+				<td>2902</td>
+				<td>1769</td>
+				<td>206</td>
+				<td>257</td>
+			</tr>
+		</table>
+		<br>
